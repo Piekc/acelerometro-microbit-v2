@@ -53,8 +53,7 @@ Hola, soy **Pía Flores**, tengo 18 años y estudio Ingeniería en Tecnologías 
 ![LCD funcionando](https://github.com/Piekc/acelerometro-microbit-v2/blob/2022c8afd8c6996869e60a427fde84e5fa2d0ec1/LCD%20funcionando.jpeg)
 
 ### 🧠 Vista superior del micro:bit
-![Vista de arriba](https://drive.google.com/file/d/1bYlZt6OW--QXOCh9M6RyYuM3oHBjurk4/view?usp=sharing)
-
+![Vista de arriba](https://github.com/Piekc/acelerometro-microbit-v2/blob/cd3df2450ae595d404de63d393bd69a8be851b65/Vista%20arriba.jpeg )
 ---
 
 ## Código
