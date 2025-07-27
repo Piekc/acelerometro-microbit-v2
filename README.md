@@ -47,10 +47,10 @@ Hola, soy **Pía Flores**, tengo 18 años y estudio Ingeniería en Tecnologías 
 
 
 ### Conexión general con imágenes
-![Conexión LCD a micro:bit](https://drive.google.com/file/d/1LbKRdL-tB9kjCbKHkICkTuB4_LBT_iXa/view?usp=sharing)
+![Conexión LCD a micro:bit]()
 
 ### 📺 Pantalla encendida mostrando aceleraciones
-![LCD funcionando](https://drive.google.com/file/d/1S1JDchue5uaLUtM2PFVz_Yp1_sR99qA0/view?usp=sharing)
+![LCD funcionando](LCD funcionando.jpeg)
 
 ### 🧠 Vista superior del micro:bit
 ![Vista de arriba](https://drive.google.com/file/d/1bYlZt6OW--QXOCh9M6RyYuM3oHBjurk4/view?usp=sharing)
