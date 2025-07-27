@@ -58,8 +58,8 @@ Hola, soy **Pía Flores**, tengo 18 años y estudio Ingeniería en Tecnologías 
 
 ## Código
 
-> El código está en el archivo `main.js` y fue hecho en MakeCode con JavaScript. https://github.com/Piekc/acelerometro-microbit-v2/blob/ef20302134f03a3cba92fdccaf18f8ecaa899348/main.js
-
+> El código está en el archivo `main.js` y fue hecho en MakeCode con JavaScript. 
+Click on link: https://github.com/Piekc/acelerometro-microbit-v2/blob/ef20302134f03a3cba92fdccaf18f8ecaa899348/main.js
 ---
 
 ## Estado del proyecto
