@@ -47,7 +47,7 @@ Hola, soy **Pía Flores**, tengo 18 años y estudio Ingeniería en Tecnologías 
 
 
 ### Conexión general con imágenes
-![Conexión LCD a micro:bit]()
+![Conexión LCD a micro:bit](https://github.com/Piekc/acelerometro-microbit-v2/blob/e5187ffb5f49f3c711c8532de0f1a72a7160f876/Conexion%20LCD%20a%20microbit.jpeg)
 
 ### 📺 Pantalla encendida mostrando aceleraciones
 ![LCD funcionando](https://github.com/Piekc/acelerometro-microbit-v2/blob/2022c8afd8c6996869e60a427fde84e5fa2d0ec1/LCD%20funcionando.jpeg)
