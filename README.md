@@ -8,7 +8,7 @@ Este es un proyecto que hice usando un micro:bit y una pantalla LCD I2C para mos
 
 ## Sobre mí
 
-Hola, soy **Pía Flores**, tengo 18 años y estudio Ingeniería en Tecnologías Computacionales. Me encanta aprender cosas nuevas con hardware y sensores. Este es uno de mis primeros proyectos con una pantalla LCD y acelerómetro 💙
+Hola, soy **Pía Flores**, tengo 18 años y estudio Ingeniería en Tecnologías Computacionales. Me interesa mucho aprender cosas nuevas con hardware y sensores. Este es uno de mis primeros proyectos con una pantalla LCD y acelerómetro 💙
 
 ---
 
